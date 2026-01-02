@@ -5,6 +5,11 @@ Central index for all Featherwind-FFF web properties.
 
 ---
 
+## Featherwind Freedom Federation
+Purpose: Landscaping & outdoor services  
+Live: https://featherwind-fff.lovable.app
+Repo: (to be linked)
+
 ## Sharp Marbles
 Purpose: Intellectual salon & creative publishing  
 Live: https://menu-of-minds.lovable.app  
