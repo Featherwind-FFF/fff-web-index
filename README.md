@@ -6,7 +6,7 @@ Central index for all Featherwind-FFF web properties.
 ---
 
 ## Featherwind Freedom Federation
-Purpose: Landscaping & outdoor services  
+Purpose: Landing Page and Map to all the DBAs
 Live: https://featherwind-fff.lovable.app
 Repo: (to be linked)
 
